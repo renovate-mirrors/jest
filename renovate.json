@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "ignorePaths": [
+    "**/examples/**/*",
+    "**/integration-tests/**/*"
+  ]
+}
